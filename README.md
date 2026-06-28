@@ -7,6 +7,7 @@
 - ``application.log``
 - ``metrics``
 - ``main.log``
+
 ![alt text](images/image1.png)
 2. В файле ``application.log``
 - найти все записи ``ERROR``
