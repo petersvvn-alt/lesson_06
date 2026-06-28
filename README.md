@@ -9,9 +9,10 @@
 - ``main.log``
 
 ![alt text](images/image1.png)
-2. В файле ``application.log``
+
+2. В файле ``application.log``:
 - найти все записи ``ERROR``
-- найти все записи ``WARNING` и вывести для них только сообщение
+- найти все записи ``WARNING`` и вывести для них только сообщение
 - найти все записи с ``Critical`` в сообщении и посчитать их количество
 ![alt text](images/image2.png)
 3. В файле ``metrics``:
